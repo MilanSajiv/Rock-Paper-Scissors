@@ -47,3 +47,14 @@ Achievements:
 - Implemented an interactive countdown timer displayed on the webcam feed.
 - Created a round-based scoring system to track computer and user wins.
 - Combined all components to offer an engaging and interactive gameplay experience.
+
+## Installation 
+- Clone the repository:
+git clone https://github.com/MilanSajiv/computer-vision-rock-paper-scissors155
+
+- Install the required Python packages:
+pip install -r requirements.txt
+
+- Run the camera_rps.py script to start the game:
+python camera_rps.py
+
