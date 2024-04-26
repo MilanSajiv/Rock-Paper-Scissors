@@ -51,7 +51,7 @@ Achievements:
 ## Installation 
 - Clone the repository:
 ```python
-git clone https://github.com/MilanSajiv/computer-vision-rock-paper-scissors155
+git clone https://github.com/MilanSajiv/Rock-Paper-Scissors
 ```
 
 - Install the required Python packages:
