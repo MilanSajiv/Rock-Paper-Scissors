@@ -50,13 +50,19 @@ Achievements:
 
 ## Installation 
 - Clone the repository:
+```python
 git clone https://github.com/MilanSajiv/computer-vision-rock-paper-scissors155
+```
 
 - Install the required Python packages:
+```python
 pip install -r requirements.txt
+```
 
 - Run the camera_rps.py script to start the game:
+```python
 python camera_rps.py
+```
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
